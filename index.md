@@ -1,6 +1,4 @@
 # cowmethane.org
-9 November 2021
-
 Publicly-available knowledge base for information on cow methane emissions with regards to climate change and potential solutions. Would you like to contribute your personal research and literature reviews of cow methane emissions? Contact Russell Tran to get involved!
 
 Disclaimer: Information on this site may not be accurate.
