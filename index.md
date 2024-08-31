@@ -25,12 +25,20 @@ Preexisting literature reviews can be found [here](https://www.ncbi.nlm.nih.gov/
 
 
 * Australian microbiologists take up the hypothesis and test the effect of various alga on cow gut microbiota _in vitro_. Unintentionally discover that addition of _Asparagopsis taxiformis_ prevents virtually all (99%) methane emissions from their samples (Machado et al. 2016)
+
+
 * Research of the seaweed continues in Australia across University of Sunshine Coast, CSIRO, James Cook University. Eg, small livestock trials, study on suspension of seaweed in vegetable oil to prevent decay of bromoform vs freeze drying (Magnusson et al. 2020) 
+
+
 * Australian aquaculture company (Australis Aquaculture/Greener Grazing) tries to cultivate the seaweed in its farms in Vietnam. Starts a seed bank of _A. taxiformis_ geographic varieties, and other characterizations[^3]
 
 
-* A startup (Blue Ocean Barns) evangelizes research in California, securing funding for experiments on cattle at UC Davis and cultivation research at UC San Diego 
+* A startup (Blue Ocean Barns) evangelizes research in California, securing funding for experiments on cattle at UC Davis and cultivation research at UC San Diego
+
+
 * UC Davis (147 day trial) and Penn State research reliably show _in vivo_ methane reduction of 80-98% using only 1-2% _A. taxiformis_ in feed by mass. No negative impact on cattle health, milk production, or milk flavor, and no bromoform detected in milk or tissues (Roque et al. 2020)
+
+
 * Other studies on the East Coast and in New Zealand confirm methane reduction in sheep[^4] 
 
 
@@ -38,6 +46,7 @@ Preexisting literature reviews can be found [here](https://www.ncbi.nlm.nih.gov/
 
 
 * Different startup (Symbrosia) attempts to cultivate the seaweed in Hawaii[^6]
+
 
 At the moment, the success of this seaweed in cows is hindered by economic feasibility and the need to achieve a planetary scale-up of currently nonexistent aquaculture infrastructure for _A. taxiformis_. Vijin et al. (2020) calculate that 3-3.4 million metric tons of seaweed (dry mass) per year is necessary for the 1% inclusion in feed level to support the 93 million cattle in the United States, which is half the current global seaweed output. They do not even bother to calculate the requisite seaweed mass for the total 1.4 billion cows on Earth. There exists further speculation that the bromoform-based methanogenesis inhibition may fail in the long term if the gut microbiota simply adapt (Hristov at a conference, 2019).
 
